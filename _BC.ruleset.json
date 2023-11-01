@@ -1,0 +1,47 @@
+{
+    "name": "BC",
+    "description": "Rules",
+    "generalAction":"Hidden",
+    "rules": [
+        {
+            "id": "AA0214",
+            "action": "Hidden",
+            "justification": "Not possible to solve"
+        },
+        {
+            "id": "AS0084",
+            "action": "Warning",
+            "justification": "Want the benefits of AppSourceCop when developing per tenant extensions"
+        },
+        {
+            "id": "AS0011",
+            "action": "Warning",
+            "justification": "Want the benefits of AppSourceCop when developing per tenant extensions"
+        },
+        {
+            "id": "AS0016",
+            "action": "Warning",
+            "justification": "Want the benefits of AppSourceCop when developing per tenant extensions"
+        },
+        {
+            "id": "AS0015",
+            "action": "Warning",
+            "justification": "Want the benefits of AppSourceCop when developing per tenant extensions"
+        },
+        {
+            "id": "AS0051",
+            "action": "Warning",
+            "justification": "Want the benefits of AppSourceCop when developing per tenant extensions"
+        },        
+        {
+            "id": "AS0052",
+            "action": "Warning",
+            "justification": "Want the benefits of AppSourceCop when developing per tenant extensions"
+        },                
+        {
+            "id": "PTE0004",
+            "action": "Hidden",
+            "justification": "Not possible to solve"
+        }       
+    ]
+}
